@@ -1,1 +1,2 @@
-# Generating Sync Markers, using Animation Modifiers
+# SyncMarkGenerator
+## Generating Sync Markers, using Animation Modifiers
