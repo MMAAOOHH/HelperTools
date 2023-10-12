@@ -3,6 +3,8 @@
 When working with animation assets in Unreal we can utilise Animation Modifiers to avoid repeated, manual work.  
 We can create and execute logic for creating Curves, adding any type of Notifies for particles or sound or, like in this case, Sync Markers.  
 
+![](images/image2.gif)  
+
 ## Step by step  
 1. To open the modifiers tab, open your animation asset and select,   
 Window/Animation Data Modifiers  
@@ -21,5 +23,5 @@ Window/Animation Data Modifiers
 5. Right click the modifier and select Apply Modifier to create the markers
 ![](images/image5.png)
   
-![](images/image2.gif)    
+  
 
