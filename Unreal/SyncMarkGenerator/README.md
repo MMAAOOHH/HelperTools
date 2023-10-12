@@ -6,7 +6,7 @@ We can create and execute logic for creating Curves, adding any type of Notifies
 ## Step by step  
 1. To open the modifiers tab, open your animation asset and select,   
 Window/Animation Data Modifiers
-![images](image1.png)
+![/images](image1.png)
 3. Search for the modifier you want to add, in our case the SyncMarkGenerator
 4. Apply your settings  
     1. This will be the name of the Notify Track created  
