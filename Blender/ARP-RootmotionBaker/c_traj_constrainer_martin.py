@@ -66,10 +66,10 @@ class CustomButtonOperator(bpy.types.Operator):
 
 class CustomPanel(bpy.types.Panel):
     bl_idname = "OBJECT_PT_custom_panel"
-    bl_label = "Dimfrost Tools"
+    bl_label = "Martin Tools"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
-    bl_category = 'Martins Custom'
+    bl_category = 'Martin Custom'
 
     def draw(self, context):
         self.layout.label(text= "ARP - Setup c_traj Constraints")
